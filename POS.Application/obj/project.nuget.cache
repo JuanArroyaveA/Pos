@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "m3CSKc2vITM2EWpt92WBv9NvwXXYJZK/RIg+vwj1GawP7JdQYxVWer/uY9dwBOdYLjC0WM1idIRZDTxm/al8Fg==",
+  "success": true,
+  "projectFilePath": "D:\\POS\\POS.Application\\POS.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ddavi\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\ddavi\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ddavi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
