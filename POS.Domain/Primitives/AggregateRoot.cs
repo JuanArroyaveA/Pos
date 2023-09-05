@@ -1,6 +1,6 @@
 ﻿namespace POS.Domain.Primitives
 {
-    internal abstract class AggregateRoot
+    public abstract class AggregateRoot
     {
         private readonly List<DomainEvent> _domainEvents = new();
 

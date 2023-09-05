@@ -2,6 +2,6 @@
 
 namespace POS.Domain.Primitives
 {
-    internal record  DomainEvent(Guid Id) : INotification;
+    public record  DomainEvent(Guid Id) : INotification;
 
 }
